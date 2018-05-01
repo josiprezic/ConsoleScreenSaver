@@ -1,6 +1,10 @@
 ConsoleScreenSaver
 ==================
 
+![screen1](https://image.ibb.co/j7oAb7/Screenshot_3.png)
+
+(more screenshots below)
+
 Mini C++ console project created during faculty days.   
 
 <b>Be the boss of your screensaver!</b>   
